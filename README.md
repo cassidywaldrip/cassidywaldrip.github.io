@@ -1,8 +1,8 @@
 
 This website is under construction. 🚧 
 
-Email: waldrip.c@northeastern.edu
+Email: [waldrip.c@northeastern.edu]
 
-LinkedIn: https://www.linkedin.com/in/cassidy-waldrip/
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/cassidy-waldrip/)
 
 CV: [Curriculum vitae](/cv.pdf)

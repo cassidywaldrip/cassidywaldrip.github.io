@@ -9,7 +9,7 @@ In the graphic, each circle is a tweet. The larger the circle, the more similar 
 
 I manually labeled each tweet as right-leaning (red), left-leaning (blue), or neutral (purple). I labeled different communities by topic. Take a look! 
 
-![Political Tweets Network](images/tweets.png)
+![Political Tweets Network](tweets.png)
 
 ## Some stats
 

@@ -22,6 +22,6 @@ The most representative tweet of the largest topic community (Misuse of FEMA fun
 
 ## Takeaways
 
-- X has made a rightward shift since Musk’s takeover - something I had heard but now have empirically confirmed
-- Anyone can say anything on social media and sound like they know what they’re talking about - but there’s a good chance they don’t
-- We’re all getting different news - people that see things differently than you likely aren’t bad; they’re synthesizing a very different body of information
+- X appears to have made a rightward shift since Musk’s takeover. I say this with the caveat that this is only a small subset of the full sample. Future work will examine the smaller communities. 
+- Anyone can say anything on social media and sound like they know what they’re talking about - but there’s a good chance they don’t. I say this after reading through hundreds and hundreds of very confident, very false tweets.
+- We’re all getting different news - people that see things differently than you likely aren’t bad; they’re synthesizing a very different body of information.

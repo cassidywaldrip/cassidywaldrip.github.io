@@ -3,7 +3,7 @@
 ## Goal: understand what was going on on X leading up to the election.
 
 I created a similarity network of political tweets (Xes?) from October 2024. The tweets were drawn from [this dataset](https://github.com/sinking8/x-24-us-election), compiled using a custom web scraper that collected tweets with political hashtags, topics, and keywords. 
-I sampled 50k tweets from the month of October, and connected them based on similarity. The graphic only shows the largest community from that month - a subset of about 2.5k tweets. 
+I sampled 50k tweets from the month of October, and connected them based on similarity. The graphic only shows the largest community from that month - a subset of about 2.5k tweets. This means that the stats and distribution of political leanings is not necessarily representative of the 50k sample as a whole - it's very possible, for example, that there is a large pocket of blue in a smaller community that shares no connections with this community.
 
 In the graphic, each circle is a tweet. The larger the circle, the more similar it is to other tweets in the network. Each line is a connection formed between tweets that have a similarity score of 0.67 or higher (on a scale of 0 to 1). 
 
